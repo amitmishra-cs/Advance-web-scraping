@@ -146,7 +146,31 @@
       <option name="project" value="LOCAL" />
       <updated>1742386889975</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="web scrapin">
+      <option name="closed" value="true" />
+      <created>1742386918961</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742386918961</updated>
+    </task>
+    <task id="LOCAL-00004" summary="web scrapin">
+      <option name="closed" value="true" />
+      <created>1742386985527</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742386985527</updated>
+    </task>
+    <task id="LOCAL-00005" summary="web scrapin">
+      <option name="closed" value="true" />
+      <created>1742386991354</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1742386991354</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
